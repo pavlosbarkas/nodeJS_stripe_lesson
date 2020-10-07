@@ -1,0 +1,42 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "High Voltage",
+            "price": 1299,
+            "imgName": "High Voltage Album.png"
+        },
+        {
+            "id": 2,
+            "name": "Highway To Hell",
+            "price": 1499,
+            "imgName": "Highway To Hell Album.png"
+        },
+        {
+            "id": 3,
+            "name": "Back In Black",
+            "price": 1799,
+            "imgName": "Back In Black Album.png"
+        },
+        {
+            "id": 4,
+            "name": "Rock Or Bust",
+            "price": 1999,
+            "imgName": "Rock Or Bust Album.png"
+        }
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "T-Shirt",
+            "price": 1999,
+            "imgName": "TShirt.png"
+        },
+        {
+            "id": 6,
+            "name": "Cup",
+            "price": 799,
+            "imgName": "Cup.png"
+        }
+    ]
+}
